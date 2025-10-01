@@ -1,0 +1,5 @@
+Podstawowy układ elektroniczny do zdalnie sterowanego samochodziku.
+Projekt posiada po 3 diody LED pomarańczowe na lewą i prawą stronę (jako migacze) oraz po 2 diody czerwone i 2 białe jako światła pozycyjne.
+Układ zawiera także mikroserwo, które będzie odpowiedzialne za skręcanie przednich kół.
+W symulacji w programie Tinkercad sterowanie odbywa się za pomocą odbiornika i pilota na podczerwień, ponieważ środowisko nie pozwala na zastosowanie innych metod sterowania. W wersji fizycznej projekt będzie sterowany przez moduł Wi-Fi.
+Diody LED i mikroserwo w rzeczywistym układzie będą zasilane z jednego źródła, jednak w symulacji wykorzystano dodatkowe baterie i uproszczone elementy, ponieważ w Tinkercad brakuje części pozwalających prawidłowo zasilić serwo z wyższego napięcia.
